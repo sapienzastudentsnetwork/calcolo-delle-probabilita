@@ -18,11 +18,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 | [4](#scheda-di-esercizi-4) | [5](#scheda-di-esercizi-5) | [6](#scheda-di-esercizi-6) |
 | [7](#scheda-di-esercizi-7) | [8](#scheda-di-esercizi-8) | [9](#scheda-di-esercizi-9) |
 
-## Schede di esercizi
+## Fogli di Esercizi
 
-Per ogni scheda è disponibile una tabella con collegamenti ai singoli esercizi
-
-### Scheda di esercizi 1
+### Foglio 1
 
 |    |    |    |    |    |
 |----|----|----|----|----|
