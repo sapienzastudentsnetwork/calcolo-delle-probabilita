@@ -12,6 +12,8 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 ### Collegamenti rapidi
 
 #### Schede di esercizi
+_**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'esame scritto (identico)_
+
 |    |    |    |    |    |    |    |    |    |    
 |----|----|----|----|----|----|----|----|----|
 | [1](#foglio-1) | [2](#scheda-di-esercizi-2) | [3](#scheda-di-esercizi-3) | [4](#scheda-di-esercizi-4) | [5](#scheda-di-esercizi-5) | [6](#scheda-di-esercizi-6) | [7](#scheda-di-esercizi-7) | [8](#scheda-di-esercizi-8) | [9](#scheda-di-esercizi-9) |
