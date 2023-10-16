@@ -14,23 +14,26 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 #### Schede di esercizi
 _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'esame scritto (identico)_
 
-|    |    |   
-|----|----|
-| [1](#foglio-1) | [2](#foglio-2) |
+|    |    |    |
+|----|----|----|
+| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) |
 
 ## Fogli di Esercizi
 
 ### Foglio 1
-
 |    |    |    |    |    |
 |----|----|----|----|----|
 | [1](../../issues/01)  | [2](../../issues/02)  | [3](../../issues/03)  | [4](../../issues/04)  | [5](../../issues/05) |
 | [6](../../issues/06)  | [7](../../issues/07)  | [8](../../issues/08)  | [9](../../issues/09)  |  |
 
-
 ### Foglio 2
-
 |    |    |    |    |
 |----|----|----|----|
 | [1](../../issues/10)  | [2](../../issues/11)  | [3](../../issues/12)  | [4](../../issues/13)  |
 | [5](../../issues/14)  | [6](../../issues/15)  | [7](../../issues/16)  | [8](../../issues/17)  |  
+
+### Foglio 3
+|    |    |    |
+|----|----|----|
+| [1](../../issues/18)  | [2](../../issues/19)  | [3](../../issues/20)  | 
+| [4](../../issues/21)  | [5](../../issues/22)  | [6](../../issues/23)  | 
