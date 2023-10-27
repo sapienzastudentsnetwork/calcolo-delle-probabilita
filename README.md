@@ -39,7 +39,7 @@ _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'e
 | [4](../../issues/21)  | [5](../../issues/22)  | [6](../../issues/23)  | 
 
 ### Foglio 4
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/24)  | [2](../../issues/25)  | [3](../../issues/26)  | [4](../../issues/27)  |
-| [5](../../issues/28)  | [6](../../issues/29)  | [7](../../issues/30)  | [8](../../issues/31)  |  
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [1](../../issues/24)  | [2](../../issues/25)  | [3](../../issues/26)  | [4](../../issues/27)  | [Extra](../../issues/32)|
+| [5](../../issues/28)  | [6](../../issues/29)  | [7](../../issues/30)  | [8](../../issues/31)  |  |
