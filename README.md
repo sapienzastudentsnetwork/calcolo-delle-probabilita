@@ -17,7 +17,9 @@ _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'e
 |    |    |    |    |    |    |    |
 |----|----|----|----|----|----|----|
 | [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) |
-
+#### Esami Passati
+_**N.B**: le prove anteriori al 2023 sono esami assegnati dal prof Bertini nel c.d.l. di Matematica_
+- [Esame 31 Agosto 2021](#esame-31-agosto-2021)
 ## Fogli di Esercizi
 
 ### Foglio 1
@@ -58,3 +60,8 @@ _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'e
 |----|----|----|----|
 | [1](../../issues/49)  | [2](../../issues/50)  | [3](../../issues/51)  | [4](../../issues/52)  |
 | [5](../../issues/53)  | [6](../../issues/54)  | [7](../../issues/55)  | [8](../../issues/56)  | 
+## Esami Passati
+### Esame 31 Agosto 2021
+|    |    |    |    |
+|----|----|----|----|
+| [1](../../issues/57) | [2](../../issues/58)  | [3](../../issues/59)  | [4](../../issues/60)  |
