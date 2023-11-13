@@ -14,9 +14,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 #### Schede di esercizi
 _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'esame scritto (identico)_
 
-|    |    |    |    |    |    |
-|----|----|----|----|----|----|
-| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) |
+|    |    |    |    |    |    |    |
+|----|----|----|----|----|----|----|
+| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) |
 
 ## Fogli di Esercizi
 
@@ -53,3 +53,8 @@ _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'e
 |----|----|----|----|
 | [1](../../issues/41)  | [2](../../issues/42)  | [3](../../issues/43)  | [4](../../issues/44)  |
 | [5](../../issues/45)  | [6](../../issues/46)  | [7](../../issues/47)  |  | 
+### Foglio 7
+|    |    |    |    |
+|----|----|----|----|
+| [1](../../issues/49)  | [2](../../issues/50)  | [3](../../issues/51)  | [4](../../issues/52)  |
+| [5](../../issues/53)  | [6](../../issues/54)  | [7](../../issues/55)  | [8](../../issues/56)  | 
