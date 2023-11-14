@@ -8,6 +8,7 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 ### Risorse Utili
 - **Sito Web del Corso** [[🌐]](https://www1.mat.uniroma1.it/people/bertini/ama/didattica/informatica/) >> Contiene il materiale del corso e le informazioni sulle modalità d'esame fornite dal prof. Lorenzo Bertini
+- **Vecchio Sito Web** [[🌐]](https://www1.mat.uniroma1.it/people/bertini/ama/didattica/probab1/) >> Contiene note, esercizi ed esami passati per il corso di Probabilità 1 svolto dal prof. Bertini nel c.d.l. di Matematica
 
 ### Collegamenti rapidi
 
