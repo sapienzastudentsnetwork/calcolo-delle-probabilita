@@ -20,10 +20,11 @@ _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'e
 | [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) |
 #### Esami Passati
 _**N.B**: le prove anteriori al 2023 sono esami assegnati dal prof Bertini nel c.d.l. di Matematica, il cui programma (presente nel vecchio sito) varia leggermente rispetto al nostro, quindi per risolvere alcuni esercizi potrebbero essere richieste nozioni extra_
-- [Esame 28 Giugno 2021](#esame-28-giugno-2021)
-- [Esame 20 Luglio 2021](#esame-20-luglio-2021)
-- [Esame 31 Agosto 2021](#esame-31-agosto-2021)
-- [Esame 13 Settembre 2021](#esame-13-settembre-2021)
+|  Anno  |    |    |    |    |
+|----|----|----|----|----|
+| 2014 | [24 Aprile](#esame-24-aprile-2014) | [13 Giugno](#esame-13-giugno-2014) | [30 Giugno](#esame-30-giugno-2014) | [17 Luglio](#esame-17-luglio-2014) |
+| 2021 | [28 Giugno](#esame-28-giugno-2021) | [31 Agosto](#esame-31-agosto-2021) | [20 Luglio](#esame-20-luglio-2021) | [13 Settembre](#esame-13-settembre-2021) |
+
 ## Fogli di Esercizi
 
 ### Foglio 1
@@ -81,3 +82,19 @@ _**N.B**: le prove anteriori al 2023 sono esami assegnati dal prof Bertini nel c
 |    |    |    |    
 |----|----|----|
 | [1](../../issues/61) | [2](../../issues/62)  | [3](../../issues/63)  | 
+### Esame 24 Aprile 2014
+|    |    |       
+|----|----|
+| [1](../../issues/78) | [2](../../issues/79)  | 
+### Esame 13 Giugno 2014
+|    |    |       
+|----|----|
+| [1](../../issues/76) | [2](../../issues/77)  | 
+### Esame 30 Giugno 2014
+|    |    |       
+|----|----|
+| [1](../../issues/74) | [2](../../issues/75)  | 
+### Esame 17 Luglio 2014
+|    |    |    |
+|----|----|----|
+| [1](../../issues/70) | [2](../../issues/71)  | [3](../../issues/72)  |
