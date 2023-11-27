@@ -15,9 +15,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 #### Schede di esercizi
 _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'esame scritto (identico)_
 
-|    |    |    |    |    |    |    |    |
-|----|----|----|----|----|----|----|----|
-| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) | [8](#foglio-8) |
+|    |    |    |    |    |    |    |    |    |  
+|----|----|----|----|----|----|----|----|----|
+| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) | [8](#foglio-8) | [9](#foglio-9) |
 #### Esami Passati
 _**N.B**: le prove anteriori al 2023 sono esami assegnati dal prof Bertini nel c.d.l. di Matematica, il cui programma (presente nel vecchio sito) varia leggermente rispetto al nostro, quindi per risolvere alcuni esercizi potrebbero essere richieste nozioni extra_
 |  Anno  |    |    |    |    |
@@ -70,6 +70,11 @@ _**N.B**: le prove anteriori al 2023 sono esami assegnati dal prof Bertini nel c
 |----|----|----|----|
 | [1](../../issues/80)  | [2](../../issues/81)  | [3](../../issues/82)  | [4](../../issues/83)  |
 | [5](../../issues/84)  | [6](../../issues/85)  | [7](../../issues/86)  | [8](../../issues/87)  | 
+### Foglio 9
+|    |    |    |    |
+|----|----|----|----|
+| [1](../../issues/88)  | [2](../../issues/89)  | [3](../../issues/90)  | [4](../../issues/91)  |
+| [5](../../issues/92)  | [6](../../issues/93)  | [7](../../issues/94)  |  | 
 ## Esami Passati
 ### Esame 28 Giugno 2021
 |    |    |    |    
