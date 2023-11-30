@@ -19,12 +19,12 @@ _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'e
 |----|----|----|----|----|----|----|----|----|
 | [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) | [8](#foglio-8) | [9](#foglio-9) |
 #### Esami Passati
-_**N.B**: le prove anteriori al 2023 sono esami assegnati dal prof Bertini nel c.d.l. di Matematica, il cui programma (presente nel vecchio sito) varia leggermente rispetto al nostro, quindi per risolvere alcuni esercizi potrebbero essere richieste nozioni extra_
-|  Anno  |    |    |    |    |
-|----|----|----|----|----|
-| 2014 | [24 Aprile](#esame-24-aprile-2014) | [13 Giugno](#esame-13-giugno-2014) | [30 Giugno](#esame-30-giugno-2014) | [17 Luglio](#esame-17-luglio-2014) |
-| 2019 | [23 Gennaio](#esame-23-gennaio-2019) | || |
-| 2021 | [28 Giugno](#esame-28-giugno-2021) | [31 Agosto](#esame-31-agosto-2021) | [20 Luglio](#esame-20-luglio-2021) | [13 Settembre](#esame-13-settembre-2021) |
+|  Anno  | Corso di Studi |    |    |    |   |
+|----|----|----|----|----|----|
+| 2014 | Matematica | [24 Aprile](#esame-24-aprile-2014) | [13 Giugno](#esame-13-giugno-2014) | [30 Giugno](#esame-30-giugno-2014) | [17 Luglio](#esame-17-luglio-2014) |
+| **2019** | **Informatica** | [23 Gennaio](#esame-23-gennaio-2019) | || |
+| **2020** | **Informatica** | [23 Giugno](#esame-23-giugno-2020) | || |
+| 2021 | Matematica | [28 Giugno](#esame-28-giugno-2021) | [31 Agosto](#esame-31-agosto-2021) | [20 Luglio](#esame-20-luglio-2021) | [13 Settembre](#esame-13-settembre-2021) |
 
 ## Fogli di Esercizi
 
@@ -98,6 +98,10 @@ _**N.B**: le prove anteriori al 2023 sono esami assegnati dal prof Bertini nel c
 |    |    |    |    |
 |----|----|----|----|
 | [1](../../issues/95) | [2](../../issues/96)  | [3](../../issues/97)  | [4](../../issues/98)  |
+### Esame 23 Giugno 2020
+|    |    |    |    |
+|----|----|----|----|
+| [1](../../issues/99) | [2](../../issues/100)  | [3](../../issues/101)  | [4](../../issues/102)  |
 ### Esame 28 Giugno 2021
 |    |    |    |    
 |----|----|----|
