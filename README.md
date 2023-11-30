@@ -23,6 +23,7 @@ _**N.B**: le prove anteriori al 2023 sono esami assegnati dal prof Bertini nel c
 |  Anno  |    |    |    |    |
 |----|----|----|----|----|
 | 2014 | [24 Aprile](#esame-24-aprile-2014) | [13 Giugno](#esame-13-giugno-2014) | [30 Giugno](#esame-30-giugno-2014) | [17 Luglio](#esame-17-luglio-2014) |
+| 2019 | [23 Gennaio](#esame-23-gennaio-2019) | || |
 | 2021 | [28 Giugno](#esame-28-giugno-2021) | [31 Agosto](#esame-31-agosto-2021) | [20 Luglio](#esame-20-luglio-2021) | [13 Settembre](#esame-13-settembre-2021) |
 
 ## Fogli di Esercizi
@@ -76,22 +77,6 @@ _**N.B**: le prove anteriori al 2023 sono esami assegnati dal prof Bertini nel c
 | [1](../../issues/88)  | [2](../../issues/89)  | [3](../../issues/90)  | [4](../../issues/91)  |
 | [5](../../issues/92)  | [6](../../issues/93)  | [7](../../issues/94)  |  | 
 ## Esami Passati
-### Esame 28 Giugno 2021
-|    |    |    |    
-|----|----|----|
-| [1](../../issues/67) | [2](../../issues/68)  | [3](../../issues/69)  | 
-### Esame 20 Luglio 2021
-|    |    |    |    
-|----|----|----|
-| [1](../../issues/64) | [2](../../issues/65)  | [3](../../issues/66)  | 
-### Esame 31 Agosto 2021
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/57) | [2](../../issues/58)  | [3](../../issues/59)  | [4](../../issues/60)  |
-### Esame 13 Settembre 2021
-|    |    |    |    
-|----|----|----|
-| [1](../../issues/61) | [2](../../issues/62)  | [3](../../issues/63)  | 
 ### Esame 24 Aprile 2014
 |    |    |       
 |----|----|
@@ -108,3 +93,24 @@ _**N.B**: le prove anteriori al 2023 sono esami assegnati dal prof Bertini nel c
 |    |    |    |
 |----|----|----|
 | [1](../../issues/70) | [2](../../issues/71)  | [3](../../issues/72)  |
+
+### Esame 23 Gennaio 2019
+|    |    |    |    |
+|----|----|----|----|
+| [1](../../issues/95) | [2](../../issues/96)  | [3](../../issues/97)  | [4](../../issues/98)  |
+### Esame 28 Giugno 2021
+|    |    |    |    
+|----|----|----|
+| [1](../../issues/67) | [2](../../issues/68)  | [3](../../issues/69)  | 
+### Esame 20 Luglio 2021
+|    |    |    |    
+|----|----|----|
+| [1](../../issues/64) | [2](../../issues/65)  | [3](../../issues/66)  | 
+### Esame 31 Agosto 2021
+|    |    |    |    |
+|----|----|----|----|
+| [1](../../issues/57) | [2](../../issues/58)  | [3](../../issues/59)  | [4](../../issues/60)  |
+### Esame 13 Settembre 2021
+|    |    |    |    
+|----|----|----|
+| [1](../../issues/61) | [2](../../issues/62)  | [3](../../issues/63)  | 
