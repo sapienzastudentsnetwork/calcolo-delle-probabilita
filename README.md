@@ -22,7 +22,7 @@ _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'e
 |  Anno  | Corso di Studi |    |    |    |   |
 |----|----|----|----|----|----|
 | 2014 | Matematica | [24 Aprile](#esame-24-aprile-2014) | [13 Giugno](#esame-13-giugno-2014) | [30 Giugno](#esame-30-giugno-2014) | [17 Luglio](#esame-17-luglio-2014) |
-| **2019** | **Informatica** | [23 Gennaio](#esame-23-gennaio-2019) | || |
+| **2019** | **Informatica** | [23 Gennaio](#esame-23-gennaio-2019) | [9 Settembre](#esame-9-settembre-2019)|| |
 | **2020** | **Informatica** | [23 Giugno](#esame-23-giugno-2020) | || |
 | 2021 | Matematica | [28 Giugno](#esame-28-giugno-2021) | [31 Agosto](#esame-31-agosto-2021) | [20 Luglio](#esame-20-luglio-2021) | [13 Settembre](#esame-13-settembre-2021) |
 
@@ -98,6 +98,10 @@ _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'e
 |    |    |    |    |
 |----|----|----|----|
 | [1](../../issues/95) | [2](../../issues/96)  | [3](../../issues/97)  | [4](../../issues/98)  |
+### Esame 9 Settembre 2019
+|    |    |    |    |
+|----|----|----|----|
+| [1](../../issues/103) | [2](../../issues/104)  | [3](../../issues/105)  | [4](../../issues/106)  |
 ### Esame 23 Giugno 2020
 |    |    |    |    |
 |----|----|----|----|
