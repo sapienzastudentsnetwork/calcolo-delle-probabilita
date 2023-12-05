@@ -15,9 +15,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 #### Schede di esercizi
 _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'esame scritto (identico)_
 
-|    |    |    |    |    |    |    |    |    |  
-|----|----|----|----|----|----|----|----|----|
-| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) | [8](#foglio-8) | [9](#foglio-9) |
+|    |    |    |    |    |    |    |    |    |    |
+|----|----|----|----|----|----|----|----|----|----|
+| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) | [8](#foglio-8) | [9](#foglio-9) | [10](#foglio-10) |
 #### Esami Passati
 |  Anno  | Corso di Studi |    |    |    |   |
 |----|----|----|----|----|----|
@@ -76,6 +76,11 @@ _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'e
 |----|----|----|----|
 | [1](../../issues/88)  | [2](../../issues/89)  | [3](../../issues/90)  | [4](../../issues/91)  |
 | [5](../../issues/92)  | [6](../../issues/93)  | [7](../../issues/94)  |  | 
+### Foglio 10
+|    |    |    |    |
+|----|----|----|----|
+| [1](../../issues/111)  | [2](../../issues/112)  | [3](../../issues/113)  | [4](../../issues/114)  |
+| [5](../../issues/115)  | [6](../../issues/116)  | [7](../../issues/117)  |  | 
 ## Esami Passati
 ### Esame 24 Aprile 2014
 |    |    |       
