@@ -80,7 +80,7 @@ _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'e
 |    |    |    |    |
 |----|----|----|----|
 | [1](../../issues/111)  | [2](../../issues/112)  | [3](../../issues/113)  | [4](../../issues/114)  |
-| [5](../../issues/115)  | [6](../../issues/116)  | [7](../../issues/117)  |  | 
+| [5](../../issues/115)  | [6](../../issues/116)  | [7](../../issues/117)  | [8](../../issues/118)  | 
 ## Esami Passati
 ### Esame 24 Aprile 2014
 |    |    |       
