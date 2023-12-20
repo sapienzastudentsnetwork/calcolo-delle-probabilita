@@ -13,11 +13,11 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 ### Collegamenti rapidi
 
 #### Schede di esercizi
-_**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'esame scritto (identico)_
+_**N.B**_: Uno degli esercizi presenti nei fogli **[1,10]** è garantito essere nell'esame scritto (identico): gli esercizi apparsi in esami passati sono indicati con la label "esercizio d'esame"
 
-|    |    |    |    |    |    |    |    |    |    |
-|----|----|----|----|----|----|----|----|----|----|
-| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) | [8](#foglio-8) | [9](#foglio-9) | [10](#foglio-10) |
+|    |    |    |    |    |    |    |    |    |    |    |
+|----|----|----|----|----|----|----|----|----|----|----|
+| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) | [8](#foglio-8) | [9](#foglio-9) | [10](#foglio-10) | [11](#foglio-11) |
 #### Esami Passati
 |  Anno  | Corso di Studi |    |    |    |   |
 |----|----|----|----|----|----|
@@ -81,6 +81,11 @@ _**N.B**: Uno degli esercizi presenti in questi fogli è garantito essere nell'e
 |----|----|----|----|
 | [1](../../issues/111)  | [2](../../issues/112)  | [3](../../issues/113)  | [4](../../issues/114)  |
 | [5](../../issues/115)  | [6](../../issues/116)  | [7](../../issues/117)  | [8](../../issues/118)  | 
+### Foglio 11
+|    |    |    |
+|----|----|----|
+| [1](../../issues/125)  | [2](../../issues/126)  | [3](../../issues/127)  | 
+
 ## Esami Passati
 ### Esame 24 Aprile 2014
 |    |    |       
