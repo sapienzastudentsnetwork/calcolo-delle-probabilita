@@ -22,12 +22,12 @@ _**N.B**_: Uno degli esercizi presenti nei fogli **[1,10]** è garantito essere 
 |  Anno  | Corso di Studi |    |    |    |   |
 |----|----|----|----|----|----|
 | 2014 | Matematica | [24 Aprile](#esame-24-aprile-2014) | [13 Giugno](#esame-13-giugno-2014) | [30 Giugno](#esame-30-giugno-2014) | [17 Luglio](#esame-17-luglio-2014) |
-| **2019** | **Informatica** | [23 Gennaio](#esame-23-gennaio-2019) | [Settembre](#esame-settembre-2019)|| |
-| **2020** | **Informatica** | [Gennaio](#esame-gennaio-2020) | [Febbraio](#esame-febbraio-2020) |  [23 Giugno](#esame-23-giugno-2020)|| 
+| **2019** | **Informatica** | [Gennaio](../../discussions?discussions_q=label%3A"gennaio+2019") | [Settembre](../../discussions?discussions_q=label%3A"settembre+2019")|| |
+| **2020** | **Informatica** | [Gennaio](../../discussions?discussions_q=label%3A"gennaio+2020") | [Febbraio](../../discussions?discussions_q=label%3A"febbraio+2020") |  [Giugno](../../discussions?discussions_q=label%3A"giugno+2020")|| 
 | 2021 | Matematica | [28 Giugno](#esame-28-giugno-2021) | [31 Agosto](#esame-31-agosto-2021) | [20 Luglio](#esame-20-luglio-2021) | [13 Settembre](#esame-13-settembre-2021) |
 
 
-## Esami Passati
+## Esami Passati (Matematica)
 ### Esame 24 Aprile 2014
 |    |    |       
 |----|----|
@@ -45,26 +45,6 @@ _**N.B**_: Uno degli esercizi presenti nei fogli **[1,10]** è garantito essere 
 |----|----|----|
 | [1](../../issues/70) | [2](../../issues/71)  | [3](../../issues/72)  |
 
-### Esame 23 Gennaio 2019
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/95) | [2](../../issues/96)  | [3](../../issues/97)  | [4](../../issues/98)  |
-### Esame Settembre 2019
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/103) | [2](../../issues/104)  | [3](../../issues/105)  | [4](../../issues/106)  |
-### Esame Gennaio 2020
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/107) | [2](../../issues/108)  | [3](../../issues/109)  | [4](../../issues/110)  |
-### Esame Febbraio 2020
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/128) | [2](../../issues/129)  | [3](../../issues/130)  | [4](../../issues/131)  |
-### Esame 23 Giugno 2020
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/99) | [2](../../issues/100)  | [3](../../issues/101)  | [4](../../issues/102)  |
 ### Esame 28 Giugno 2021
 |    |    |    |    
 |----|----|----|
