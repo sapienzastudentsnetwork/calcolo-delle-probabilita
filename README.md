@@ -23,7 +23,7 @@ _**N.B**_: Uno degli esercizi presenti nei fogli **[1,10]** è garantito essere 
 |----|----|----|----|----|----|
 | 2014 | Matematica | [24 Aprile](#esame-24-aprile-2014) | [13 Giugno](#esame-13-giugno-2014) | [30 Giugno](#esame-30-giugno-2014) | [17 Luglio](#esame-17-luglio-2014) |
 | **2019** | **Informatica** | [23 Gennaio](#esame-23-gennaio-2019) | [Settembre](#esame-settembre-2019)|| |
-| **2020** | **Informatica** | [Gennaio](#esame-gennaio-2020) | [23 Giugno](#esame-23-giugno-2020)|| |
+| **2020** | **Informatica** | [Gennaio](#esame-gennaio-2020) | [Febbraio](#esame-febbraio-2020) |  [23 Giugno](#esame-23-giugno-2020)|| 
 | 2021 | Matematica | [28 Giugno](#esame-28-giugno-2021) | [31 Agosto](#esame-31-agosto-2021) | [20 Luglio](#esame-20-luglio-2021) | [13 Settembre](#esame-13-settembre-2021) |
 
 ## Fogli di Esercizi
@@ -116,6 +116,10 @@ _**N.B**_: Uno degli esercizi presenti nei fogli **[1,10]** è garantito essere 
 |    |    |    |    |
 |----|----|----|----|
 | [1](../../issues/107) | [2](../../issues/108)  | [3](../../issues/109)  | [4](../../issues/110)  |
+### Esame Febbraio 2020
+|    |    |    |    |
+|----|----|----|----|
+| [1](../../issues/128) | [2](../../issues/129)  | [3](../../issues/130)  | [4](../../issues/131)  |
 ### Esame 23 Giugno 2020
 |    |    |    |    |
 |----|----|----|----|
