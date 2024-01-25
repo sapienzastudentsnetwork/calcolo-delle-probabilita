@@ -17,7 +17,7 @@ _**N.B**_: Uno degli esercizi presenti nei fogli **[1,10]** è garantito essere 
 
 |    |    |    |    |    |    |    |    |    |    |    |
 |----|----|----|----|----|----|----|----|----|----|----|
-| [1](#foglio-1) | [2](#foglio-2) | [3](#foglio-3) | [4](#foglio-4) | [5](#foglio-5) | [6](#foglio-6) | [7](#foglio-7) | [8](#foglio-8) | [9](#foglio-9) | [10](#foglio-10) | [11](#foglio-11) |
+| [1](../../discussions?discussions_q=category%3A"01") | [2](../../discussions?discussions_q=category%3A"02") | [3](../../discussions?discussions_q=category%3A"03") | [4](../../discussions?discussions_q=category%3A"04") | [5](../../discussions?discussions_q=category%3A"05") | [6](../../discussions?discussions_q=category%3A"06") | [7](../../discussions?discussions_q=category%3A"07") | [8](../../discussions?discussions_q=category%3A"08") | [9](../../discussions?discussions_q=category%3A"09") | [10](../../discussions?discussions_q=category%3A"10") | [11](../../discussions?discussions_q=category%3A"11") |
 #### Esami Passati
 |  Anno  | Corso di Studi |    |    |    |   |
 |----|----|----|----|----|----|
@@ -26,65 +26,6 @@ _**N.B**_: Uno degli esercizi presenti nei fogli **[1,10]** è garantito essere 
 | **2020** | **Informatica** | [Gennaio](#esame-gennaio-2020) | [Febbraio](#esame-febbraio-2020) |  [23 Giugno](#esame-23-giugno-2020)|| 
 | 2021 | Matematica | [28 Giugno](#esame-28-giugno-2021) | [31 Agosto](#esame-31-agosto-2021) | [20 Luglio](#esame-20-luglio-2021) | [13 Settembre](#esame-13-settembre-2021) |
 
-## Fogli di Esercizi
-
-### Foglio 1
-|    |    |    |    |    |
-|----|----|----|----|----|
-| [1](../../issues/01)  | [2](../../issues/02)  | [3](../../issues/03)  | [4](../../issues/04)  | [5](../../issues/05) |
-| [6](../../issues/06)  | [7](../../issues/07)  | [8](../../issues/08)  | [9](../../issues/09)  |  |
-
-### Foglio 2
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/10)  | [2](../../issues/11)  | [3](../../issues/12)  | [4](../../issues/13)  |
-| [5](../../issues/14)  | [6](../../issues/15)  | [7](../../issues/16)  | [8](../../issues/17)  |  
-
-### Foglio 3
-|    |    |    |
-|----|----|----|
-| [1](../../issues/18)  | [2](../../issues/19)  | [3](../../issues/20)  | 
-| [4](../../issues/21)  | [5](../../issues/22)  | [6](../../issues/23)  | 
-
-### Foglio 4
-|    |    |    |    |    |
-|----|----|----|----|----|
-| [1](../../issues/24)  | [2](../../issues/25)  | [3](../../issues/26)  | [4](../../issues/27)  | [Extra](../../issues/32)|
-| [5](../../issues/28)  | [6](../../issues/29)  | [7](../../issues/30)  | [8](../../issues/31)  |  |
-### Foglio 5
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/33)  | [2](../../issues/34)  | [3](../../issues/39)  | [4](../../issues/40)  |
-| [5](../../issues/35)  | [6](../../issues/36)  | [7](../../issues/37)  | [8](../../issues/38)  | 
-### Foglio 6
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/41)  | [2](../../issues/42)  | [3](../../issues/43)  | [4](../../issues/44)  |
-| [5](../../issues/45)  | [6](../../issues/46)  | [7](../../issues/47)  |  | 
-### Foglio 7
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/49)  | [2](../../issues/50)  | [3](../../issues/51)  | [4](../../issues/52)  |
-| [5](../../issues/53)  | [6](../../issues/54)  | [7](../../issues/55)  | [8](../../issues/56)  | 
-### Foglio 8
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/80)  | [2](../../issues/81)  | [3](../../issues/82)  | [4](../../issues/83)  |
-| [5](../../issues/84)  | [6](../../issues/85)  | [7](../../issues/86)  | [8](../../issues/87)  | 
-### Foglio 9
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/88)  | [2](../../issues/89)  | [3](../../issues/90)  | [4](../../issues/91)  |
-| [5](../../issues/92)  | [6](../../issues/93)  | [7](../../issues/94)  |  | 
-### Foglio 10
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/111)  | [2](../../issues/112)  | [3](../../issues/113)  | [4](../../issues/114)  |
-| [5](../../issues/115)  | [6](../../issues/116)  | [7](../../issues/117)  | [8](../../issues/118)  | 
-### Foglio 11
-|    |    |    |
-|----|----|----|
-| [1](../../issues/125)  | [2](../../issues/126)  | [3](../../issues/127)  | 
 
 ## Esami Passati
 ### Esame 24 Aprile 2014
