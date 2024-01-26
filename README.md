@@ -4,7 +4,7 @@
 
 Lo scopo di questo repository GitHub è la condivisione e discussione delle soluzioni dei fogli d'esercizi di Calcolo delle Probabilità forniti dal prof. Lorenzo Bertini durante l'anno accademico 2023-2024. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
-_**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi con soluzioni confermate in classe da un professore o su GitHub da più di un utente, per cui **se la tua soluzione coincide con quella pubblicata da un altro utente ricordati** nelle pagine degli esercizi (issues) **di aggiungere un commento del tipo "Soluzione analoga a quella di \<nome\>"**; ovviamente anche altri approcci risolutivi che portano allo stesso risultato per confermarlo ulteriormente sono i benvenuti!_
+_**N.B**: Considereremo come "risolti" gli esercizi con soluzioni confermate in classe da un professore o su GitHub da più di un utente, per cui **se la tua soluzione coincide con quella pubblicata da un altro utente ricordati** nelle pagine degli esercizi (discussions) **di aggiungere un commento del tipo "Soluzione analoga a quella di \<nome\>"**; ovviamente anche altri approcci risolutivi che portano allo stesso risultato per confermarlo ulteriormente sono i benvenuti!_
 
 ### Risorse Utili
 - **Sito Web del Corso** [[🌐]](https://www1.mat.uniroma1.it/people/bertini/ama/didattica/informatica/) >> Contiene il materiale del corso e le informazioni sulle modalità d'esame fornite dal prof. Lorenzo Bertini
@@ -21,43 +21,8 @@ _**N.B**_: Uno degli esercizi presenti nei fogli **[1,10]** è garantito essere 
 #### Esami Passati
 |  Anno  | Corso di Studi |    |    |    |   |
 |----|----|----|----|----|----|
-| 2014 | Matematica | [24 Aprile](#esame-24-aprile-2014) | [13 Giugno](#esame-13-giugno-2014) | [30 Giugno](#esame-30-giugno-2014) | [17 Luglio](#esame-17-luglio-2014) |
+| 2014 | Matematica | [Aprile](../../discussions?discussions_q=label%3A"aprile+2014") | [13 Giugno](../../discussions?discussions_q=label%3A"13+giugno+2014") | [30 Giugno](../../discussions?discussions_q=label%3A"30+giugno+2014") | [Luglio](../../discussions?discussions_q=label%3A"luglio+2014") |
 | **2019** | **Informatica** | [Gennaio](../../discussions?discussions_q=label%3A"gennaio+2019") | [Settembre](../../discussions?discussions_q=label%3A"settembre+2019")|| |
 | **2020** | **Informatica** | [Gennaio](../../discussions?discussions_q=label%3A"gennaio+2020") | [Febbraio](../../discussions?discussions_q=label%3A"febbraio+2020") |  [Giugno](../../discussions?discussions_q=label%3A"giugno+2020")|| 
-| 2021 | Matematica | [28 Giugno](#esame-28-giugno-2021) | [31 Agosto](#esame-31-agosto-2021) | [20 Luglio](#esame-20-luglio-2021) | [13 Settembre](#esame-13-settembre-2021) |
+| 2021 | Matematica | [Giugno](../../discussions?discussions_q=label%3A"giugno+2021") | [Luglio](../../discussions?discussions_q=label%3A"luglio+2021") | [Agosto](../../discussions?discussions_q=label%3A"agosto+2021") | [Settembre](../../discussions?discussions_q=label%3A"settembre+2021") |
 
-
-## Esami Passati (Matematica)
-### Esame 24 Aprile 2014
-|    |    |       
-|----|----|
-| [1](../../issues/78) | [2](../../issues/79)  | 
-### Esame 13 Giugno 2014
-|    |    |       
-|----|----|
-| [1](../../issues/76) | [2](../../issues/77)  | 
-### Esame 30 Giugno 2014
-|    |    |       
-|----|----|
-| [1](../../issues/74) | [2](../../issues/75)  | 
-### Esame 17 Luglio 2014
-|    |    |    |
-|----|----|----|
-| [1](../../issues/70) | [2](../../issues/71)  | [3](../../issues/72)  |
-
-### Esame 28 Giugno 2021
-|    |    |    |    
-|----|----|----|
-| [1](../../issues/67) | [2](../../issues/68)  | [3](../../issues/69)  | 
-### Esame 20 Luglio 2021
-|    |    |    |    
-|----|----|----|
-| [1](../../issues/64) | [2](../../issues/65)  | [3](../../issues/66)  | 
-### Esame 31 Agosto 2021
-|    |    |    |    |
-|----|----|----|----|
-| [1](../../issues/57) | [2](../../issues/58)  | [3](../../issues/59)  | [4](../../issues/60)  |
-### Esame 13 Settembre 2021
-|    |    |    |    
-|----|----|----|
-| [1](../../issues/61) | [2](../../issues/62)  | [3](../../issues/63)  | 
