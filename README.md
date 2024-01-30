@@ -25,4 +25,5 @@ _**N.B**_: Uno degli esercizi presenti nei fogli **[1,10]** è garantito essere 
 | **2019** | **Informatica** | [Gennaio](../../discussions?discussions_q=label%3A"gennaio+2019") | [Settembre](../../discussions?discussions_q=label%3A"settembre+2019")|| |
 | **2020** | **Informatica** | [Gennaio](../../discussions?discussions_q=label%3A"gennaio+2020") | [Febbraio](../../discussions?discussions_q=label%3A"febbraio+2020") |  [Giugno](../../discussions?discussions_q=label%3A"giugno+2020")|| 
 | 2021 | Matematica | [Giugno](../../discussions?discussions_q=label%3A"giugno+2021") | [Luglio](../../discussions?discussions_q=label%3A"luglio+2021") | [Agosto](../../discussions?discussions_q=label%3A"agosto+2021") | [Settembre](../../discussions?discussions_q=label%3A"settembre+2021") |
+| **2024** | **Informatica**| [Gennaio](../../discussions?discussions_q=label%3A"gennaio+2024") | | | |
 
