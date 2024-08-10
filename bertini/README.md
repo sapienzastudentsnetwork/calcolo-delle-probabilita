@@ -2,7 +2,7 @@
 
 ## ⚠️ Attenzione
 
-Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Matematici per l'Informatica assegnati dal prof. Lorenzo Carlucci è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!
+Questo repository di scambio e confronto di soluzioni agli esercizi di Calcolo delle Probabilità assegnati dal prof. Lorenzo Bertini Malgarini è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!
 
 ### 🗃 Risorse utili
 - **Sito Web del Corso** [[🌐]](https://www1.mat.uniroma1.it/people/bertini/ama/didattica/informatica/) >> Contiene il materiale del corso e le informazioni sulle modalità d'esame fornite dal prof. Lorenzo Bertini
