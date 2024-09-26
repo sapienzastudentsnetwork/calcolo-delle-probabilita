@@ -17,7 +17,7 @@ In questi forum chiunque può aggiungere non solo proposte di soluzione o commen
 
 Attualmente, questo forum, nella sua parte M-Z in particolare, è gestito dai seguenti colleghi:
 - **Aglaia Norza** [[GitHub](https://github.com/aglaianorza)] [[Telegram](https://t.me/aglaianorza)]
-- **Matteo Rima** [[GitHub](https://github.com/rimaout)]
+- **Matteo R.** [[GitHub](https://github.com/rimaout)]
 
 Non esitare a contattarli qualora volessi dare una mano anche tu 💪
 
