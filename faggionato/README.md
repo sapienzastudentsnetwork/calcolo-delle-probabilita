@@ -19,4 +19,6 @@ Attualmente, questo forum, nella sua parte M-Z in particolare, è gestito dai se
 - **Aglaia Norza** ([@AglaiaNorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
 - **Matteo** ([@rimaout](https://github.com/rimaout))
 
+Originariamente è stato invece creato e gestito, nell'A.A. 2023/24, da [Elia Belli](https://github.com/Elia-Belli), che ringraziamo a nome dell'intera comunità per l'ottimo lavoro svolto 💪
+
 Grazie mille in anticipo per il tuo contributo 🙌
