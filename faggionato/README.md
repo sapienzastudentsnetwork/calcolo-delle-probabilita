@@ -16,7 +16,9 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Calcolo d
 In questi forum chiunque può aggiungere non solo proposte di soluzione o commenti, ma anche nuovi [esercizi tratti da vecchie tracce d'esame](../../../discussions/new?category=esami-m-z) o [esercizi per casa](../../../discussions/new?category=esercizi-m-z), ma se volessi essere ancora più di contributo puoi unirti anche alla gestione 🙂
 
 Attualmente, questo forum, nella sua parte M-Z in particolare, è gestito dai seguenti colleghi:
-- **Aglaia Norza** [GitHub](https://github.com/aglaianorza) [Telegram](https://t.me/aglaianorza)
-- **Matteo Rima** [GitHub](https://github.com/rimaout)
+- **Aglaia Norza** [[GitHub](https://github.com/aglaianorza)] [[Telegram](https://t.me/aglaianorza)]
+- **Matteo Rima** [[GitHub](https://github.com/rimaout)]
 
 Non esitare a contattarli qualora volessi dare una mano anche tu 💪
+
+Grazie mille in anticipo per il tuo contributo 🙌
