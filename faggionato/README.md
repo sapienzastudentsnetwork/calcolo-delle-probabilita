@@ -11,6 +11,12 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Calcolo d
 - [Esercizi d'esame](../../../discussions/categories/esami-m-z)
 - [Esercizi per casa](../../../discussions/categories/esercizi-m-z)
 
+### Filtri per sezione del foglio di esercizi
+
+|                                                                               | | | |
+|-------------------------------------------------------------------------------|-|-|-|
+| [0.1](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.1")  | [0.2](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.2")  |[0.3](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.3")  |[0.4](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.4")  |
+
 ## 👷‍♀️ Gestori
 
 In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche nuovi [esercizi tratti da vecchie tracce d'esame](../../../discussions/new?category=esami-m-z) o [esercizi per casa](../../../discussions/new?category=esercizi-m-z), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
