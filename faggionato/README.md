@@ -13,9 +13,9 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Calcolo d
 
 ### Filtri per sezione del foglio di esercizi
 
-|                                                                               | | | | | | | | | |
-|-------------------------------------------------------------------------------|-|-|-|-|-|-|-|-|-|
-| [0.1](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.1")  | [0.2](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.2")  |[0.3](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.3")  |[0.4](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.4")  |[0.5](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.5")  |[0.6](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.6")  |[0.7](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.7") |[0.8](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.8") |[0.9](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.9") |[0.10](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.10") |
+|                                                                               | | | | | | | | | | |
+|-------------------------------------------------------------------------------|-|-|-|-|-|-|-|-|-|-|
+| [0.1](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.1")  | [0.2](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.2")  |[0.3](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.3")  |[0.4](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.4")  |[0.5](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.5")  |[0.6](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.6")  |[0.7](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.7") |[0.8](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.8") |[0.9](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.9") |[0.10](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.10") |[0.11](../../../discussions?discussions_q=label%3A"[M-Z]+(2024%2F25)+sezione+0.11") |
 
 
 ## 👷‍♀️ Gestori
