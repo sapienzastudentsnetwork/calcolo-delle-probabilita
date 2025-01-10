@@ -21,7 +21,7 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Calcolo d
 | Anno      |                                                                                    |     |
 |-----------|------------------------------------------------------------------------------------| --- |
 | **2005** | [esonero 29/11](../../../discussions?discussions_q=label%3A"29+novembre+2005+[M-Z]") |   |
-| **2006** | [12 giugno](../../../discussions?discussions_q=label%3A"12+giugno+2006+[M-Z]") | [17 giugno](../../../discussions?discussions_q=label%3A"17+giugno+2006+[M-Z]") |
+| **2006** | [12 giugno](../../../discussions?discussions_q=label%3A"12+giugno+2006+[M-Z]") | [17 luglio](../../../discussions?discussions_q=label%3A"17+luglio+2006+[M-Z]") |
 
 
 ## 👷‍♀️ Gestori
