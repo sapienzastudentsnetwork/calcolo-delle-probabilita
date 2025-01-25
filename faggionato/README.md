@@ -20,9 +20,12 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Calcolo d
 ### Filtri per traccia di esame
 | Anno      |                                                                                    |     |
 |-----------|------------------------------------------------------------------------------------| --- |
-| **2005** | [esonero 29/11](../../../discussions?discussions_q=label%3A"29+novembre+2005+[M-Z]") |   |
-| **2006** | [12 giugno](../../../discussions?discussions_q=label%3A"12+giugno+2006+[M-Z]") | [17 luglio](../../../discussions?discussions_q=label%3A"17+luglio+2006+[M-Z]") |
+| **2025** | [gennaio](../../../discussions?discussions_q=label%3A"17+settembre+2007+[M-Z]") *|
 | **2007** | [17 settembre](../../../discussions?discussions_q=label%3A"17+settembre+2007+[M-Z]") |
+| **2006** | [12 giugno](../../../discussions?discussions_q=label%3A"12+giugno+2006+[M-Z]") | [17 luglio](../../../discussions?discussions_q=label%3A"17+luglio+2006+[M-Z]") |
+| **2005** | [esonero 29/11](../../../discussions?discussions_q=label%3A"29+novembre+2005+[M-Z]") |   |
+
+*esercizi della traccia A e domanda teorica (es. 5) di tutte e tre - le tracce differivano solo per qualche numero
 
 ## 👷‍♀️ Gestori
 
