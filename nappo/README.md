@@ -13,6 +13,9 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Calcolo d
 - [Esercizi d'esame](../../../discussions/categories/esami-a-l)
 - [Esercizi per casa](../../../discussions/categories/esercizi-a-l)
 
+### Filtri per traccia di esame
+- [22 gennaio 2025](../../../discussions?discussions_q=label%3A"22+gennaio+2025+[A-L]")
+
 ## 👷‍♀️ Gestori
 
 In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche nuovi [esercizi tratti da vecchie tracce d'esame](../../../discussions/new?category=esami-m-z) o [esercizi per casa](../../../discussions/new?category=esercizi-m-z), ma se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
