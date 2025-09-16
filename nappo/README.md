@@ -167,13 +167,13 @@
           </td>
         </tr>
         <tr>
-          <td align="center"> 11 Giugno </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita/discussions?discussions_q=is%3Aopen+label%3A%2211+giugno+2025+%5BA-L%5D%22"> 11 Giugno </a> </td>
         </tr>
         <tr>
-          <td align="center"> 16 Luglio </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita/discussions?discussions_q=is%3Aopen+label%3A%2216+luglio+2025+%5BA-L%5D%22"> 16 Luglio </a> </td>
         </tr>
         <tr>
-          <td align="center"> 5 Settembre </td>
+          <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/calcolo-delle-probabilita/discussions?discussions_q=is%3Aopen+label%3A%225+settembre+2025+%5BA-L%5D%22"> 5 Settembre </a> </td>
       </table>
     </td>
   </tr>
